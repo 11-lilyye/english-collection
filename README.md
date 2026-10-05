@@ -1,11 +1,11 @@
 # 英语合集
 
-Interactive English Learning Tools
+英语学习工具合集。
 
-## 410新托福核心词
+## 第一个目录：410新托福核心词
 
-入口：[`410新托福核心词/index.html`](410新托福核心词/index.html)
+410 个核心词 · 41 个章节，包含记忆钩子、单词考试、双语故事与学习打卡。
 
-采用「英语OS」聊天最终确认的 V27 文件 `410_words_story_41_translation_aligned_v27.html`，原文件内容完整保留。
+**[点击进入学习](https://11-lilyye.github.io/english-collection/410新托福核心词/)**
 
-静态网页，可通过 GitHub Pages 在手机或电脑浏览器打开。
+手机或电脑浏览器直接打开即可使用，无需下载。
